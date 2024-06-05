@@ -139,7 +139,7 @@ client.on('channelCreate', async (channel) => {
         const embed = new MessageEmbed()
             .setColor('#0099ff')
             .setTitle('شـراء بنر لبروفايلك')
-            .setImage('https://media.discordapp.net/attachments/1012074200271433799/1231391629638897737/output.png?ex=6636c9d2&is=662454d2&hm=59d48896b05f3256d7c21b5869230b8d3bf0fc3089753ca54ccf930469ad2e5d&=&format=webp&quality=lossless')
+            .setImage('')
             .setDescription('إضغط على الزر الأخضر من أجل الإستمرار');
 
         const row = new MessageActionRow()
