@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "canvas": "^2.11.2",
+    "discord.js": "^13.17.1"
+  }
+}
