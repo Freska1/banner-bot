@@ -125,7 +125,7 @@ client.once('ready', () => {
     console.log(`Bot Started With Name ${client.user.tag}.`);
     const activityType = 'STREAMING';
     client.user.setPresence({
-        activities: [{ name: "By Brimo", type: activityType }],
+        activities: [{ name: "By fares", type: activityType }],
         status: 'idle'
     });
     console.log(`Done Set Activity`);
